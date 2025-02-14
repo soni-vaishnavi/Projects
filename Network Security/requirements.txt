@@ -1,9 +1,0 @@
-numpy
-seaborn
-matplotlib
-scikit-learn
-pymongo[srv]==3.12
-setuptools
-pymongo
-certifi
-# -e .
